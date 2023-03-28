@@ -46,7 +46,7 @@ This project integrates metube yt-dlp web frontend, Aria2 + WebUI, Rclone + WebU
  1. Fork this this repository.
  2. Click Setting on fork repository page and check Template repository.
  3. Click new button: Use this template，create a new repository。
- 4. For example, your Github username is bobby, and the new repository name is green. After logging in to heroku, visit <https://dashboard.heroku.com/new?template=https://github.com/bobby/green> to deploy.
+ 4. For example, your Github username is bobby, and the new repository name is green. After logging in to heroku, visit <https://dashboard.heroku.com/new?template=https://github.com/tonmoyislam12/all-in-one> to deploy.
  5. Detailed explanation of RCLONE_AUTO_MODE env:
     dummy: Do nothing，move: Move files to local finished folder after Aria2 download & seeding completed.  
     move_remote: Move files to local finished folder after Aria2 download & seeding completed，then move to Rclone remote storage.  
